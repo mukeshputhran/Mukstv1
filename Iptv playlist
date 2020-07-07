@@ -2,17 +2,14 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", AAJ TAK web
+http://54.255.155.24:1935//Live/_definst_/amlst:sweetbcha1novD500L720P/chunklist_b700000.m3u8
 
-
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="Hindi News", ABP NEWS HD
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png" group-title="Hindi News", Zee News
 https://z5amshls.akamaized.net/zeenews/tracks-v3a1/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="Hindi News", CNN News 18
-https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", India Tv
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
@@ -20,11 +17,14 @@ https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", News 24
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", News Nation
+https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", News Nation
-https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", DD News
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
@@ -35,23 +35,29 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English News", India today 
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Hindi Movies", Star Gold
 http://103.214.202.218:8081/live/stargold/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", ZEE CINEMA HD
+https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", &Flix HD
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", ABZY Movies
-https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Bollywood HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Bollywood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", ABZY Movies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Bollywood.in
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
@@ -61,9 +67,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", HBO--
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Housefull Movies
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
@@ -82,12 +85,6 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Shemaroo BOLLYWOOD PREMIER
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Star Gold2
-https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", ZEE CINEMA HD
-https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", Star plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
@@ -122,17 +119,26 @@ http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English Channels", Movies Now HD
 https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English Channels", &Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", History
 https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", DISCOVERY HD
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", POGO
 http://45.120.188.207:80/0.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", 9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
