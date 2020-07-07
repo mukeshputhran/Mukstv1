@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="Hindi News", ABP NEWS HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png" group-title="Hindi News", Zee News
 https://z5amshls.akamaized.net/zeenews/tracks-v3a1/index.m3u8
