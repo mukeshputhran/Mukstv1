@@ -6,7 +6,10 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/49882fe4-3b88-4699-a4c5-24f5445fccad/4.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/ABPNews_2016.jpg" group-title="Hindi News", ABP NEWS HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77540
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", ZEE NEWS hd
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77608
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png" group-title="Hindi News", Zee News
 https://z5amshls.akamaized.net/zeenews/tracks-v3a1/index.m3u8
@@ -42,7 +45,7 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRcLN4vlYIygdrVZ8eQGTxT-miv24_YI6CoA&usqp=CAU" group-title="English News", Republic tv
-https:/manifest.googlevideo.com/api/manifest/hls_variant/expire/1594387067/ei/GxYIX-DDItrMz7sP2PyeUA/ip/202.12.82.111/id/ckKA-0MUm4E.1/source/yt_live_broadcast/requiressl/yes/tx/23880667/txs/23880663%2C23880664%2C23880665%2C23880666%2C23880667/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANyoXPqeDfR3T9UlscNW3Ma3cXa5be9NibQqwD73jQ8HAiBOsnXTyMs7yrq4XJzEMpseC14H--gsA2aYJ-eFuPaLeg%3D%3D/file/index.m3u8
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77594
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Marathi news", Tv9 marathi
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
@@ -149,20 +152,23 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="English Channels", MNX
 http://103.135.208.14/live/ibox/bd/70.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", DISCOVERY HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", HINDI: DISCOVERY WORLD HD
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77562
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", DISCOVERY HD HINDI
-http://dreambox84.com:8000/288155041493/5e888b8eea053/4149
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", HINDI: HISTORY TV18 HD
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77567
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", HINDI: SONY BBC EARTH HD
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77525
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Discovery Science hindi
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", TLC world 
 http://103.135.208.14/live/ibox/bd/62.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", History tv 18
 http://103.135.208.14/live/ibox/bd/91.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", History
-https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Animal planet
 http://103.135.208.14/live/ibox/bd/93.m3u8
@@ -188,44 +194,23 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kids", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", MTV 
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/5879
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Hindi Music", MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", MTV India IN
-http://mytv.fun:8080/bastian321/qg9iiqbtv/5556
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", HINDI: MTV BEATS HD
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77580
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", HINDI: MTV PLUS HD
+http://iptvclub.live:25461/1XZ1yglJJCHDMxi/G5VZbQjijYvyUpm/77581
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", 9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", 9XM IN
-http://mytv.fun:8080/8hgmwjdw7i/ssgesrwlopt/4009
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", 9X Tashan IN
-http://mytv.fun:8080/8hgmwjdw7i/ssgesrwlopt/10617
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", MUSIC INDIA
+http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="Hindi Music", Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Nazrana
-http://linear08hun-lh.akamaihd.net:80/i/nazrana_1@673935/index_2128_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Artist Aloud
-https://linear10hun-lh.akamaihd.net/i/artistaloud_1@741583/index_828_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
@@ -233,23 +218,8 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", E-24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", MUSIC INDIA
-http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Zoom
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", JOO MUSIC
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", PTC Gold
-http://13.232.161.202:1935/goldIn/smil:Live.smil/chunklist_w1976498641_b1396000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Q Tv
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Punjabi Tadka
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
