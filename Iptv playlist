@@ -44,8 +44,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/T4jA4k1h.png" group-title="Hindi News", ZEE NEWS
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/940
 
-#EXTINF:-1 tvg-id="0-9-channel_1422341819" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRcLN4vlYIygdrVZ8eQGTxT-miv24_YI6CoA&usqp=CAU" group-title="English News", Republic TV
-http://indtv.online/0-9-channel_1422341819.m3u8
+#EXTINF:-1 tvg-id="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="English News", Republic TV
+http://indtv.online/Republic_TV.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
@@ -65,8 +65,8 @@ http://indtv.online/News_X.m3u8
 #EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="English News", Wion
 http://indtv.online/Wion.m3u8
 
-#EXTINF:-1 tvg-id="858" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="English News", Republic TV
-http://indtv.online/Republic_TV.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1422341819" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRcLN4vlYIygdrVZ8eQGTxT-miv24_YI6CoA&usqp=CAU" group-title="English News", Republic TV
+http://indtv.online/0-9-channel_1422341819.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Marathi news", Tv9 marathi
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
@@ -359,6 +359,18 @@ http://indtv.online/Ichhapuran_Balaji_Rajasthan.m3u8
 #EXTINF:-1 tvg-id="1421" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" group-title="Jio Darshan", Karani Mata Rajasthan
 http://indtv.online/Karani_Mata_Rajasthan.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4YHdd7JpKqquPPCZtGBLdqf-h9g4qu4tVYg&usqp=CAU" group-title="Sports", Sony Six HD
+http://indtv.online/Six_HD.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/2OSKzcS" group-title="Sports", SONY SIX HD
+https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://bit.ly/39mKxU4" group-title="Sports", Star Sports-1 HD
+
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835" group-title="Sports", Star Sports-2 HD
+http://bit.ly/3esS2Hd
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sony TEN2 HD
 http://103.205.133.14/hls/ten2.m3u8
 
@@ -370,15 +382,6 @@ http://103.205.133.14/hls/ten3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sony Ten 3 airtel 
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18196
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", SONY SIX low
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/898
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", SONY SIX HD
-https://stream.amrbd.com/SonySix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sony Six HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18197
 
 #EXTINF:-1 tvg-id="757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Kannada", Colors Kannada HD
 http://indtv.online/Colors_Kannada_HD.m3u8
