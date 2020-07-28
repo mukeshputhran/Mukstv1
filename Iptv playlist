@@ -9,7 +9,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/943
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News", zee new 
-http://163.172.223.102:8081/1212@!liveInx1/zeenews/chunks.m3u8?nimblesessionid=2002365&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIwIDc6MDk6MTYgQU0maGFzaF92YWx1ZT1BRWdSNUpqSEphVUVsMzNVSmltclNBPT0mdmFsaWRtaW51dGVzPTI=
+http://163.172.223.102:8081/1212@!liveInx1/zeenews/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDIwIDExOjQ4OjUxIEFNJmhhc2hfdmFsdWU9K3lrNHR5STVCeWVpTWVlQ05yOTQrQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Hindi News", ZEE NEWS HD
 http://indtv.online/Zee_News.m3u8
