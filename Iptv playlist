@@ -2,14 +2,14 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News", Tv9 bharatvarsh
 https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-II/49882fe4-3b88-4699-a4c5-24f5445fccad/4.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News", ZEE NEWS
+http://hdonline.ml:80/y1/y1/3115
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi News", Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Hindi News", ABP NEWS HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/943
-
-#EXTINF:-1 tvg-id="504" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News", Zee News
-http://indtv.online/jiotv/jojotv/Zee_News.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Hindi News", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -35,7 +35,7 @@ http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="Hindi News", Lok Sabha TV
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Hindi News", DD News
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="Hindi News", DD News
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="Hindi News", NDTV India
@@ -57,13 +57,16 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" group-title="English News", Mirror Now
-http://indtv.online/jiotv/jojotv/Magic_bricks_Now.m3u8
+https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 
 #EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="English News", News X
-http://indtv.online/jiotv/jojotv/News_X.m3u8
+https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="English News", Wion
-http://indtv.online/jiotv/jojotv/Wion.m3u8
+http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="858" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrmS50rl3NCNCsR1pp-RgNd43laeud9SAv31hGu1LFpDEtKkPvd1ITG4N&s=10" group-title="English News", Republic TV
+http://hdonline.ml:80/y1/y1/3022
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Marathi news", Tv9 marathi
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
@@ -107,8 +110,8 @@ http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18191
 #EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
 http://indtv.online/jiotv/jojotv/Sony_Max_HD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="Hindi Movies", Star Gold
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies", Star Gold HD
+http://star.indtv.online/live/star_gold/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Star Gold Select 4K" tvg-logo="https://bit.ly/3g1vly1" group-title="Hindi Movies", Star Gold Select HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18180
