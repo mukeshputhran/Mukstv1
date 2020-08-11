@@ -6,7 +6,7 @@ https://z5live2media.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a646
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Hindi News", ABP NEWS HD
-http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/943
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/61787
 
 #EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="Hindi News", ABP News
 http://indtv.online/tp/ABPNews.m3u8
@@ -69,7 +69,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="858" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrmS50rl3NCNCsR1pp-RgNd43laeud9SAv31hGu1LFpDEtKkPvd1ITG4N&s=10" group-title="English News", Republic TV
-http://hdonline.ml:80/y1/y1/3022
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/66716
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Marathi news", Tv9 marathi
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
@@ -126,7 +126,7 @@ http://indtv.online/jiotv/jijitv/Zee_Cinema_HD.m3u8
 http://indtv.online/jiotv/jijitv/And_Pictures_HD.m3u8
 
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Hindi Movies", &xplorHD
-http://indtv.online/jiotv/jijitv/0-9-209.m3u8
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/66670
 
 #EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="Hindi Movies", Jio Bollywood Premium HD
 http://indtv.online/jiotv/jijitv/EROSNOW_Hindi_Premium.m3u8
@@ -189,10 +189,10 @@ http://indtv.online/jiotv/jijitv/Movies_Now2_HD.m3u8
 http://indtv.online/jiotv/jijitv/Movies_Now_HD.m3u8
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="English Channels", &flix
-http://indtv.online/jiotv/jijitv/0-9-channel_2105335046.m3u8
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/62219
 
 #EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title="English Channels", &Prive HD
-http://indtv.online/jiotv/jijitv/0-9-privehd.m3u8
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/66669
 
 #EXTINF:-1 tvg-id="762" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Channels", Sony Pix HD
 http://indtv.online/jiotv/jijitv/Sony_Pix_HD.m3u8
@@ -212,7 +212,13 @@ http://indtv.online/jiotv/jijitv/Sony_BBC_Earth_HD.m3u8
 #EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet Hindi
 http://indtv.online/jiotv/jijitv/Animal_Planet_Hindi.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Epic 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment", TLC Hindi HD
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/66737
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
+http://vt.protoniumtv.net:1997/qaozen/UpVeFDki8N/60042
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-229/list/386x386/09229epictv.png" group-title="Infotainment", Epic 
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="559" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi
