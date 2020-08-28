@@ -21,7 +21,7 @@ https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 
 #EXTINF:-1 tvg-id="518" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="Hindi News", Sudarshan
-http://indtv.online/jiotv/jijitv/Sudarshan.m3u8
+https://sudarshan.live/hls/sudarshannews/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="Hindi News", News Nation
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
@@ -41,14 +41,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://ddnews.gov.in/sites/all/themes/cmf/logo.png" group-title="Hindi News", DD News
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id="ABPNews" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7014.ABPNews.in/1x1/1x/test_pic1580713373952.jpg" group-title="Hindi News", ABP News
-http://indtv.online/tp/ABPNews.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://imagesdishtv.whatsonindia.com/dasimages/ImageRightsManagement_ChannelLogo/T4jA4k1h.png" group-title="Hindi News", ZEE NEWS
-http://103.141.66.36/bpk-tv/10285/default/index.m3u8
-
 #EXTINF:-1 tvg-id="858" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrmS50rl3NCNCsR1pp-RgNd43laeud9SAv31hGu1LFpDEtKkPvd1ITG4N&s=10" group-title="English News", Republic TV
-http://indtv.online/zee5/zee8/0-9-channel_1422341819.m3u8
+http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
@@ -64,9 +58,6 @@ https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
 
 #EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="English News", News X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-logo="noimage.png" group-title="English News", Republic
-https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d651ba153df2f8d31076898067fd2
 
 #EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="English News", Wion
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
