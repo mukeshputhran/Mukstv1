@@ -42,7 +42,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_48
 https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="858" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXrmS50rl3NCNCsR1pp-RgNd43laeud9SAv31hGu1LFpDEtKkPvd1ITG4N&s=10" group-title="English News", Republic TV
-http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
+https://weblive.republicworld.com/liveorigin/republictv/master.m3u8?e=0&h=c89d651ba153df2f8d31076898067fd2
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News", Times Now HD
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
