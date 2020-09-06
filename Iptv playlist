@@ -9,7 +9,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Hindi News", Zee news
-http://indtv.online/jiotv/jtv/Zee_News.m3u8
+http://104.218.60.145:83/WILLIE@/4047585326@/379911
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Hindi News", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -53,11 +53,11 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="English News", CNN News 18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 
-#EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" group-title="English News", Mirror Now
-https://m-c20-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
-
 #EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="English News", News X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
+
+#EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" group-title="English News", Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
 #EXTINF:-1 tvg-id="412" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="English News", Wion
 http://z5amshls.akamaized.net/wion/tracks-v1a1/playlist.m3u8
@@ -75,13 +75,13 @@ https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", Star plus HD
-https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+http://104.218.60.145:83/WILLIE@/4047585326@/374129
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.ddnb.tn/logochanel/1701.png" group-title="Hindi Entertainment", SONY TV
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://104.218.60.145:83/WILLIE@/4047585326@/374171
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi Entertainment", Zee TV HD
 http://three.somee.com/web.php?c=zeetvhd
@@ -96,13 +96,16 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="1133" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Hindi Movies", Star Gold HD
-https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+http://104.218.60.145:83/WILLIE@/4047585326@/374128
+
+#EXTINF:-1 tvg-id="IN: STAR GOLD SD" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Hindi Movies", STAR GOLD SD
+http://104.218.60.145:83/WILLIE@/4047585326@/379939
 
 #EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema HD
 http://three.somee.com/web.php?c=zcinemahd
 
 #EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
-http://three.somee.com/web.php?c=andpicshd
+https://load.airtel.tv/andpictures/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Hindi Movies", &xplorHD
 http://indtv.online/zee5/zee8/0-9-209.m3u8
@@ -119,11 +122,8 @@ http://mytv.fun:8080/bastian321/qg9iiqbtv/3971
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Zee Bollywood IN
 http://mytv.fun:8080/bastian321/qg9iiqbtv/5565
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Bollywood HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Fox Action Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="IN: MTV Indies" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="Hindi Music", MTV HD
+http://104.218.60.145:83/WILLIE@/4047585326@/379982
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Hindi Music", MTV Beats
 https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
