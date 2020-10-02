@@ -12,7 +12,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Hindi News ", Zee news
-http://xyz.milleniumtv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61799
+http://85.203.33.33:80/FJrwquU09/dNjJbF70/6246
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="Hindi News ", News 24
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
@@ -75,16 +75,16 @@ https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", Star plus HD
-http://randomserver.site:2086/riyad/riyad/91828
+http://mahs.work:80/live/iSparkx99/Khaled3639/46853.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://logo.ddnb.tn/logochanel/1701.png" group-title="Hindi Entertainment", SONY TV
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi Entertainment", Zee TV HD
-http://randomserver.site:2086/riyad/riyad/94805
+http://85.203.33.33:80/FJrwquU09/dNjJbF70/6242
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
-http://randomserver.site:2086/riyad/riyad/91887
+http://mahs.work:80/live/iSparkx99/Khaled3639/46866.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="Hindi Entertainment", &TV HD
 http://three.somee.com/web.php?c=andtvhd
@@ -95,20 +95,17 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 #EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", IN : ZEE CINEMA HD
-http://randomserver.site:2086/riyad/riyad/91809
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/StarGold.in.png" group-title="Hindi Movies", STAR GOLD HD
 http://randomserver.site:2086/riyad/riyad/94775
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Hindi Movies", STAR GOLD SELECT
-http://randomserver.site:2086/riyad/riyad/94776
+http://mu03.wanicelife.com:8880/FvR7Xrnxzy/bdDeWPf5Yv/1897
 
 #EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v4a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", Zee Cinema HD
-http://randomserver.site:2086/riyad/riyad/91809
+http://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Hindi Movies", &xplorHD
 http://indtv.online/zee5/zee8/0-9-209.m3u8
@@ -149,27 +146,6 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-id="575" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Infotainment", Discovery Channel Hindi
-http://iptv.mirrorace.net/?channelid=575
-
-#EXTINF:-1 tvg-id="578" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD Hindi
-http://iptv.mirrorace.net/?channelid=578
-
-#EXTINF:-1 tvg-id="821" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment", Sony BBC Earth HD
-http://iptv.mirrorace.net/?channelid=821
-
-#EXTINF:-1 tvg-id="566" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet Hindi
-http://iptv.mirrorace.net/?channelid=566
-
-#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Infotainment", Living Foodz
-http://indtv.online/zee5/zee8/0-9-livingfoodz.m3u8
-
-#EXTINF:-1 tvg-id="561" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Infotainment", Food Food
-http://iptv.mirrorace.net/?channelid=561
-
-#EXTINF:-1 tvg-id="562" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment", Travel XP HD Hindi
-http://iptv.mirrorace.net/?channelid=562
-
 #EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="English Channels", HBO HD
 http://indtv.online/jiotv/jtv/HBO_HD.m3u8
 
@@ -188,16 +164,16 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="English Channels", &flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", WILLOW CRICKET HD
-http://randomserver.site:2086/riyad/riyad/94797
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Sports", STAR SPORTS 1 HD Hindi 
+http://mahs.work:80/live/iSparkx99/Khaled3639/46952.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="Sports", Star Sports 1 HD
-http://randomserver.site:2086/riyad/riyad/94780
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Sports", IN: WILLOW CRICKET HD
+http://mahs.work:80/live/iSparkx99/Khaled3639/46913.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", STAR SPORTS HINDI 1 HD
-http://randomserver.site:2086/riyad/riyad/94788
+#EXTINF:-1 tvg-id="null" tvg-logo="noimg.png" group-title="Sports", US: Willow Cricket HD
+http://mahs.work:80/live/iSparkx99/Khaled3639/55067.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", STAR SPORTS HINDI tatasky 
-http://ok2.se:8000/victor1/victor123/201
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", star Sports hindi 
+https://rtmpstream-inct.streaming.media.azure.net/ed0834e2-b9f7-4b1f-8ec0-563d10de9cfe/858a74db-8223-447b-9ba5-f06dce142ecc.ism/manifest(format=m3u8-aapl)
 
 
