@@ -12,7 +12,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master_720.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Hindi News ", Zee news
-http://85.203.33.33:80/FJrwquU09/dNjJbF70/6246
+https://load.airtel.tv/zeenews/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="Hindi News ", News 24
 https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
