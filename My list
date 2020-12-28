@@ -72,22 +72,22 @@ https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", Star plus HD
-http://156.146.43.241:2200/R-EX/HINDI_STAR_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=
+https://botallen.live/t/8/master.m3u8?signature=c9529ecdfd490738b680808beb3b73003c683de7&unique=9267f3a8f768988f116d4946798f224a
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi Entertainment", Sony HD
-http://156.146.43.241:2200/R-EX/HINDI_SONY_HD-in/tracks-v1a1/mono.m3u8?token=
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi Entertainment", SONY
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi Entertainment", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment", Colors HD
-http://156.146.43.241:2200/R-EX/HINDI_COLORS_HD-in/tracks-v1a1/mono.m3u8?token=
+https://botallen.live/t/52/master.m3u8?signature=c2c2d868231eb944126538bc36b4c35cff008671&unique=9267f3a8f768988f116d4946798f224a
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi Entertainment", Zee TV HD
-http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
-#EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Hindi Movies", Sony Max HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", SAB TV HD 
+https://botallen.live/t/48/master.m3u8?signature=2543197fb80da10b4b891808d3ce10cdaf799537&unique=9267f3a8f768988f116d4946798f224a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Hindi Movies", SONY MAX HD
+https://botallen.live/t/80/master.m3u8?signature=5f82d260db677e97823d2a09dc5203f10d73f792&unique=9267f3a8f768988f116d4946798f224a
 
 #EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
@@ -95,26 +95,32 @@ http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", ZEE cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", thriller
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", STAR GOLD HD
+https://botallen.live/t/632/master.m3u8?signature=775eecebed398b1634ccb8ca525faf7a6ff92b75&unique=9267f3a8f768988f116d4946798f224a
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", shemaroo movies
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", UTV BINDASS
+https://botallen.live/t/142/master.m3u8?signature=12a613cc54fd05ee79c7b4678181031b530e9973&unique=9267f3a8f768988f116d4946798f224a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", SHOWBOX
+https://botallen.live/t/733/master.m3u8?signature=d1ca691fccdf28419c0a47a0de6b85e841279ca9&unique=9267f3a8f768988f116d4946798f224a
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", And Xplor HD
-https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?
+https://botallen.live/z/0-9-209/master.m3u8?signature=256593a5567ef0ab642d28280c6fd73c86af595d&unique=d2044828ae86b7dcc388bf4b21325485
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", UTV ACTION
-http://156.146.43.241:2200/R-EX/HINDI_UTV_ACTION-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Movieplus
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", UTV HD
-http://156.146.43.241:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", thriller
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Lifestyle", Discovery SD HINDI
 http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8?@IPTVSolution
 
-#EXTINF:-1 tvg-id="578" tvg-logo="https://wxca.cf/images/j/motNJHaFWI.png" group-title="Lifestyle", History TV18 HD Hindi
-https://wxca.cf/j/History_18_Hindi/master.m3u8?signature=8a2f568ca31eaed38b39bdfca319c394da44b938&unique=b553ef357a91258c6dea8a50d77eaf23|User-Agent=KAIOS
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", HISTORY 18 HINDI
+https://botallen.live/j/History_18_Hindi/master.m3u8?signature=edc61d891d439bdb9c6b806c61222909d1628a96&unique=d2044828ae86b7dcc388bf4b21325485
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Lifestyle", BBC EARTH FHD
 http://156.146.43.241:2200/R-EX/ENGLISH_BBC_EARTH_HD-in/tracks-v1a1/mono.m3u8?token=
@@ -131,32 +137,26 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="Lifestyle", food food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 
-#EXTINF:-1 tvg-id="IN: MTV Indies" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="Hindi Music", MTV HD
-http://104.218.60.145:83/WILLIE@/4047585326@/379982
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="Hindi Music", MTV Beats
-http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+https://botallen.live/t/405/master.m3u8?signature=5764500df6ab5ace8b5dc6c1ba76f56abf20565a&unique=9267f3a8f768988f116d4946798f224a
 
 #EXTINF:-1 tvg-id="592" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="Hindi Music", ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Zee Etc
-http://three.somee.com/web.php?c=etc
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", E-24
-https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", 9xm
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", MUSIC INDIA
 http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.epg.best/in/Zing.in.png" group-title="Hindi Music", Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", B4U Music
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Music", E-24
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 
 #EXTINF:-1 tvg-id="833" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="English Channels", HBO HD
 http://indtv.online/jiotv/jtv/HBO_HD.m3u8
@@ -176,10 +176,16 @@ https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="English Channels", &flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports ", Sony Six HD
-http://156.146.43.241:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/mono.m3u8?token=
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports ", SONY SIX HD tata
+https://botallen.live/t/35/master.m3u8?signature=746a70d2e27ae906d0e043107485c59e25e83955&unique=9267f3a8f768988f116d4946798f224a
 
 #EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="Sports ", SONY SIX FHD
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports ", Sony Six
+http://45.127.244.7:8080/hls/channel3.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/ten-cricket-logo-1.png" group-title="Sports ", Ten Cricket
+http://45.127.244.7:8080/hls/channel5.m3u8
 
 
