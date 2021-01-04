@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", Tv9 bharatvarsh
-https://wxca.cf/h/1260003857/master.m3u8|User-Agent=KAIOS
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jXl82Cj.png" group-title="Hindi News ", Republic Bharat 
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
@@ -100,9 +100,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", ZEE cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", star gold
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61789
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Hindi Movies", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
