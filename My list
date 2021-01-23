@@ -9,7 +9,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Hindi News ", ABP NEWS HD
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Hindi News ", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -77,14 +77,11 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", Star plus HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="Hindi Entertainment", SONY HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="Hindi Entertainment", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment", Colors HD
-https://still-hollows-47038.herokuapp.com/m3u8.php?c=Colors_HD
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", colors
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60045
+http://182.176.93.225:8000/play/a00c
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi Entertainment", Zee TV HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -93,13 +90,13 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Hindi Movies", SONY MAX HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.m3u8
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", ZEE cinema HD
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
+https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Hindi Movies", Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
@@ -135,7 +132,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208
 http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8?@IPTVSolution
 
 #EXTINF:-1 tvg-id="578" tvg-logo="http://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Lifestyle", History TV18 HD Hindi
-https://botallen.live/j/History_18_Hindi/master.m3u8?signature=edc61d891d439bdb9c6b806c61222909d1628a96&unique=d2044828ae86b7dcc388bf4b21325485
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/36b54c70a610354.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", ANIMAL PLANET Hindi
 http://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
@@ -150,7 +147,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 
 #EXTINF:-1 tvg-id="821" tvg-logo="http://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Lifestyle", Sony BBC Earth HD
-https://still-hollows-47038.herokuapp.com/m3u8.php?c=Sony_BBC_Earth_HD
+http://182.176.93.225:8000/play/a02j
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi Music", 9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -185,25 +182,34 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="English Channels", WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/1121px-WWE_Logo.svg.png" group-title="English Channels", WWE Network
-http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/9whd4No.png" group-title="English Channels", HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English Channels", Star Movies HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Channels", & Prive hd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="155" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="Sports ", SONY SIX FHD
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="Sports ", TEN SPORTS -1HD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sports ", SONY TEN 3 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="Sports ", TEN SPORTS - 2HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?HjFreeTV=TEN2HD
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sports ", SONY TEN - 3HD
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports ", SONY SIX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports ", Sony Six
-http://45.127.244.7:8080/hls/channel3.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" group-title="Sports ", STAR SPORTS 1HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2012/04/ten-cricket-logo-1.png" group-title="Sports ", Ten Cricket
-http://45.127.244.7:8080/hls/channel5.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT1.png" group-title="Sports ", STAR SPORT SELECT 1 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2752
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT2.png" group-title="Sports ", STAR SPORT SELECT 2 HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2751
 
 
