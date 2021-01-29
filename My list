@@ -62,11 +62,11 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", Star plus HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
 
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
+http://rv.therevenge.co:80/live/242424/242424/83695.m3u8?checkedby:hlscat.com
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/logo-animated-new.gif" group-title="Hindi Entertainment", SONY HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Hindi Entertainment", Colors HD
-http://182.176.93.225:8000/play/a00c
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Hindi Entertainment", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
@@ -89,53 +89,35 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Hindi Movies", SONY MAX HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Hindi Movies", And Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi Movies", &Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Movies", ZEE cinema HD
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="Hindi Movies", Boogle Bollywood
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", MOVIES ACTIVE HD
+http://pn.tvott.info:80/477845056156344/477845056156344/83650
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg" group-title="Hindi Movies", B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/4O7CPFq.png" group-title="Hindi Movies", Bollywood TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Hindi Movies", Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-logo="noimage.png" group-title="Hindi Movies", Joo Music
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/F4dP6OP.png" group-title="Hindi Movies", Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://bit.ly/2EfPNNy" group-title="Hindi Movies", BFlix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", thriller
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/corona-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", DISCOVERY WORLD HD
+http://pn.tvott.info:80/477845056156344/477845056156344/83666
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Lifestyle", Discovery SD HINDI
-http://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8?@IPTVSolution
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/b4f4ac5bc4f9716.m3u8
 
 #EXTINF:-1 tvg-id="578" tvg-logo="http://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Lifestyle", History TV18 HD Hindi
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/36b54c70a610354.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", ANIMAL PLANET Hindi
-http://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/3b5133054a5c02a.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", Discovery Science [HINDI]
-http://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", Nat GEO Hindi
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/616ea70da8a1bb3.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
@@ -197,19 +179,25 @@ https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8?H
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sports ", SONY TEN - 3HD
 https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png" group-title="Sports ", STAR SPORTS 1HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT1.png" group-title="Sports ", STAR SPORT SELECT 1 HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2752
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTSELECT2.png" group-title="Sports ", STAR SPORT SELECT 2 HD
 http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2751
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SUPERSPORT CRICKET HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2625
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", WILLOW CRICKET HD
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/2746
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SKY SPORTS CRICKET
+http://line.crystalott.net:80/IVTK7APG7V/FgPybcSOgypk5Im/4903
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png" group-title="Sports ", Fox Sport HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", PTV Sports
+https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 
 
