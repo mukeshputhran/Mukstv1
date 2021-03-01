@@ -149,6 +149,24 @@ http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 
+#EXTINF:-1 tvg-id="KANNADA: COLORS KANNADA HD" tvg-logo="noimage.png" group-title="Kannada", COLORS KANNADA HD
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/KWOFud6dDz/95817
+
+#EXTINF:-1 tvg-id="KANNADA: ZEE HD" tvg-logo="noimage.png" group-title="Kannada", ZEE KANNADA
+http://4kiptv.vip:25461/8YRoCfBZPc8jjXP/KWOFud6dDz/95836
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Kannada", News 18 Kannda
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada", Prajaa Kannada TV
+http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="Kannada", Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", TV5 Kannada
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png" group-title="Lifestyle", Discovery SD HINDI
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/b4f4ac5bc4f9716.m3u8
 
