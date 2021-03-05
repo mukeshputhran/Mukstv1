@@ -158,12 +158,6 @@ http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN040ZeeKannada.png" group-title="Kannada", IN040:Zee Kannada
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/1925
-
-#EXTINF:-1 tvg-id="IN156:Colors Kannada HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN156ColorsKannadaHD.png" group-title="Kannada", IN156:Colors Kannada HD
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/55297
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Kannada", News 18 Kannda
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 
@@ -251,17 +245,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="DTH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/FoxCricketHD_Late2018.png" group-title="Sports ", FOX_501_HD
 http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
 
-#EXTINF:-1 tvg-id="AU032:Fox Sports 501" tvg-logo="noimage.png" group-title="Sports ", AU032:Fox Sports 501
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/61094
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", color Cineplex 
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 
-#EXTINF:-1 tvg-id="ss.cricket.za" tvg-logo="noimage.png" group-title="Sports ", ZA123:SuperSport Cricket
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/68991
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", cine hd
+https://dai.google.com/linear/hls/pb/event/yTTVgdt-T8Kuz3KV_sMXRQ/stream/6d9f4008-8be6-4122-b48f-62b9e0d2fa59:SIN/variant/ea1b70b6b811d42fefa9170f613ffbad/bandwidth/2934800.m3u8
 
-#EXTINF:-1 tvg-id="MY137:ASTRO CRICKET" tvg-logo="noimage.png" group-title="Sports ", MY137:ASTRO CRICKET
-http://mu01cz.okcomputer.club:8880/Ttest0303/123456789/71109
-
-#EXTINF:-1 tvg-id="DTH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG" group-title="Sports ", SPORTS_STAR_SPORTS_HD1_HINDI
-http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/55225
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Star Sports Hindi
+http://live.kytetv.tk/INDvsENGTestMatch/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", DD Sports 
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
