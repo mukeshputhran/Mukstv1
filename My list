@@ -98,14 +98,17 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", STAR PLUS 
 http://starshare.live:8080/live/533004/533004/167.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", Colors HD
-http://starshare.live:8080/live/533004/533004/195.m3u8
+#EXTINF:-1 tvg-id="IN: COLOR FHD" tvg-logo="noimage.png" group-title="Hindi Entertainment", COLOR FHD
+http://oqab.life:8080/live/8181/8181/109.ts
+
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN019ColorsHD.png" group-title="Hindi Entertainment", IN019:Colors HD
+http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/1946
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Hindi Entertainment", SONY TV HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", ZEE TV 
-http://starshare.live:8080/live/533004/533004/220.m3u8
+#EXTINF:-1 tvg-id="IN: ZEE TV HD" tvg-logo="noimage.png" group-title="Hindi Entertainment", IN: ZEE TV HD
+http://oqab.life:8080/live/8181/8181/90.m3u8
 
 #EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
@@ -137,35 +140,17 @@ http://ip.mooniptv.cz:80/9504904207/2059566803/83711
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", |HINDI| STAR GOLD SELECT HD
 http://ip.mooniptv.cz:80/9504904207/2059566803/83710
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", Kand:  Colors Kannada HD
-http://starshare.live:8080/live/533004/533004/162.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN Discovery HINDI
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/273802
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Kannada", News 18 Kannda
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada", Prajaa Kannada TV
-http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="Kannada", Suvarna News
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", TV5 Kannada
-https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle",  DISCOVERY WORLD HD
-http://ip.mooniptv.cz:80/8982756513/7755054445/83666
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", DISCOVERY HINDI
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN ANIMAL PLANET Hindi HD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/273373
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN: Sony BBC Earth HD (HINDI)
-http://starshare.live:8080/live/533004/533004/7721.m3u8
+http://starshare.live:8080/live/533004/533004/7721.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN: National GEO (4K)
-http://starshare.live:8080/live/533004/533004/9394.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", ANIMAL PLANET HD 
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+http://starshare.live:8080/live/533004/533004/9394.ts
 
 #EXTINF:-1 tvg-id="1444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Lifestyle", YTV India
 https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in_720p/index.m3u8
@@ -187,6 +172,21 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", Animal Planet
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", Kand:  Colors Kannada HD
+http://starshare.live:8080/live/533004/533004/162.ts
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Kannada", News 18 Kannda
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada", Prajaa Kannada TV
+http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.asianetnews.com/v1/images/kannada_prabha_icon_2.png" group-title="Kannada", Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", TV5 Kannada
+https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
 
 #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Hindi Music", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
