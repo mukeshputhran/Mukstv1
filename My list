@@ -12,7 +12,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News ", ZEE NEWS
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeenews
+http://iptvtree.net:8080/geniptv/4faed690fd/5047
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Hindi News ", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -78,10 +78,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="English News", Wion News
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-wion&oauth=c3Q9MTYwNzc2NDcyNX5leHA9MTYwNzc2NTcyNX5hY2w9LypobWFjPTNjNTc0NzdiMmFhODRjYzFiYTk4OTU1NWZmMjdmNjE5NmNkNTgxMTcyMzI2ZmRlMmY5N2VjN2FmMTdmNzkzNmE=
-
-#EXTINF:-1 tvg-id="142" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="English News", BBC World News
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-339
+http://iptvtree.net:8080/geniptv/4faed690fd/192999
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Marathi news", Tv9 marathi
 http://vidnetcdn.vidgyor.com/tv9marathi-origin/live/tv9marathi-origin/live1/chunks.m3u8
@@ -96,22 +93,19 @@ https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", STAR PLUS 
-http://starshare.live:8080/live/533004/533004/167.m3u8
+http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 
-#EXTINF:-1 tvg-id="IN: COLOR FHD" tvg-logo="noimage.png" group-title="Hindi Entertainment", COLOR FHD
-http://oqab.life:8080/live/8181/8181/109.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", color hd
+https://m3u-editor.com/serve/8d20f360-9b35-11eb-b067-2f1bd1e274ba/290894159.m3u8
 
-#EXTINF:-1 tvg-id="Colors.in" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN019ColorsHD.png" group-title="Hindi Entertainment", IN019:Colors HD
-http://f7.amarron.club:8880/kg14m3n002/sdfsdfx234423423423/1946
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", colors 
+http://212.224.98.196:2200/R-EX/HINDI_COLORS_HD-in/index.m3u8?token=rk
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Hindi Entertainment", SONY TV HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
 
-#EXTINF:-1 tvg-id="IN: ZEE TV HD" tvg-logo="noimage.png" group-title="Hindi Entertainment", IN: ZEE TV HD
-http://oqab.life:8080/live/8181/8181/90.m3u8
-
 #EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetvhd
+http://iptvtree.net:8080/geniptv/4faed690fd/197423
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Hindi Entertainment", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
@@ -132,31 +126,28 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/&xplore.png" group-title="Hindi Movies", &xplor HD
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209
+http://iptvtree.net:8080/geniptv/4faed690fd/196116
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", |HINDI| STAR GOLD HD
-http://ip.mooniptv.cz:80/9504904207/2059566803/83711
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", utv action
+http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", |HINDI| STAR GOLD SELECT HD
-http://ip.mooniptv.cz:80/9504904207/2059566803/83710
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg" group-title="Hindi Movies", Star Gold select HD
+http://87.117.234.107:1935//live//STARGOLDSELECTFHD//chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="data:image/jpeg;base64,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" group-title="Hindi Movies", Star Gold HD
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN Discovery HINDI
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/273802
 
+#EXTINF:-1 tvg-id="IN: Discovery Channel HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Lifestyle", IN: Discovery Channel HD
+http://iptvtree.net:8080/geniptv/4faed690fd/73792
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN ANIMAL PLANET Hindi HD
 http://iptvtree.net:8080/vpngenerators/635ee5a5e7/273373
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN: Sony BBC Earth HD (HINDI)
-http://starshare.live:8080/live/533004/533004/7721.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", IN: National GEO (4K)
-http://starshare.live:8080/live/533004/533004/9394.ts
-
 #EXTINF:-1 tvg-id="1444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Lifestyle", YTV India
 https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="571" tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/tlc.png" group-title="Lifestyle", TLC HD
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
@@ -165,10 +156,7 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Lifestyle", Zee Zest HD
-https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-348
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Lifestyle", Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", Animal Planet
 https://itvorigin.multitvsolution.com:443/idvo/aphdhindi_540p/index.m3u8
