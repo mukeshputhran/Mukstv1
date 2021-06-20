@@ -11,8 +11,8 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 tvg-id="ABP News-IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News ", ABP News
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News ", Zee News S2
-https://thesuperserver.000webhostapp.com/Swift/swift.m3u8?g=ind2020&c=zeenews
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Hindi News ", Zee News
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=504/Zee_News&q=800
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Hindi News ", News18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
@@ -95,20 +95,14 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="Hindi Entertainment", STAR PLUS 
 http://212.224.98.196:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RK
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", COLORS HD (IND)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/2958
-
-#EXTINF:-1 tvg-id="ts52" tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png" group-title="Hindi Entertainment", Colors HD S2
-https://thesuperserver.000webhostapp.com/Swift/swift.m3u8?g=ind2020&c=colorshd
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Hindi Entertainment", Colors HD
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=144/Colors_HD&q=800
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Hindi Entertainment", SONY TV HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
 
-#EXTINF:-1 tvg-id="167" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD S2
-https://thesuperserver.000webhostapp.com/Swift/swift.m3u8?g=ind2020&c=zeetvhd
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1.bp.blogspot.com/-2V1OsQqlvrc/YJpp8AG4rEI/AAAAAAAAAog/kjpcb5_fPQkz_7FJqInvQDQVNQkdqXopgCLcBGAsYHQ/w200-h113/PicsArt_03-16-07.55.18.jpg" group-title="Hindi Entertainment", ZEE TV HD (IND)
-http://mynxg.top:8080/c0:97:27:4a:80:ba/KAYODE/2848
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Hindi Entertainment", Zee TV HD
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=167/Zee_TV_HD&q=800
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="Hindi Entertainment", SONY SAB HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
@@ -137,41 +131,59 @@ https://thesuperserver.000webhostapp.com/Swift/swift.m3u8?g=ind2020&c=stargoldse
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="data:image/jpeg;base64,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" group-title="Hindi Movies", Star Gold HD
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Lifestyle", Discovery Hindi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery Hindi
 https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Lifestyle", Animal Planet
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment", History TV18 HD Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=578/History_18_Hindi&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Infotainment", Sony BBC Earth HD
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=821/Sony_BBC_Earth_HD&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment", Animal Planet
 https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", HISTORTV 18 HD (IND)
-http://oqab.life:8080/live/321123/123321/93.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", Discovery Science Hindi
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Discovery Science Hindi
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-id="IN: ANIMAL PLANET HD" tvg-logo="noimage.png" group-title="Lifestyle", ANIMAL PLANET HD
-http://iptvtree.net:8080/geniptv/4faed690fd/1370
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment", TLC Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=571/TLC_Hindi&q=800
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", History Tv18  hw
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/36b54c70a610354.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment", Travel XP HD Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=562/Travel_XP&q=800
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", Nat GEO Wild Hindi hw
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/ec0a46439494f74.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Lifestyle", Travel XP Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-
-#EXTINF:-1 tvg-id="1444" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Lifestyle", YTV India
-https://m-c048-j2apps.s.llnwi.net/hls_hd/6107.YTVIndiaHD.in_720p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="Lifestyle", food food
-https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Lifestyle", epic
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", epic
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Lifestyle", Zee Zest HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="Infotainment", food food
+https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
+
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://akamaividz.zee5.com/resources/0-9-348/list/386x386/1170x658_2132680991.png" group-title="Infotainment", Zee Zest HD
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Infotainment", Animal Planet Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=566/Animal_Planet_Hindi&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Infotainment", Travel XP Hindi
+https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="kids", Pogo Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=559/Pogo_Hindi&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="kids", Cartoon Network Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=816/Cartoon_Network_Hindi&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="kids", Disney Hind
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="kids", Marvels hindi
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cricket_Pang.png" group-title="kids", Cricket Pang
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=1693/Cricket_Pang&q=800
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="kids", Nick Hindi
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=545/Nick_Hindi&q=800
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", Colors Kannada HD
 http://212.224.98.209:2200/R-EX/KANNADA_COLORS_KANNADA_MOVIES-in/index.m3u8?token=RED
@@ -200,8 +212,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
 #EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Hindi Music", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Hindi Music", MTV PLUS HD
-http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://snoidcdnems07.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Hindi Music", MTV HD Plus
+https://amangotddns.000webhostapp.com/Jolly/Jolly.m3u8?c=1145/MTV_HD_Plus&q=800
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="Hindi Music", 9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
@@ -245,17 +257,14 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Channels", & Prive hd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Willow Cricket 
-https://atc.hopto.org/Cricket-Willow-Quality/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Astro cricket HD
+http://143.244.60.80/AstroCricketHD/tracks-v1a1/mono.m3u8?token=RK
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Star sports HD1
-http://212.224.98.196:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/tracks-v1a1/mono.m3u8?token=RED
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Fox 501
+http://mains.vip:2086/live/8386592806/2543983/100783.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SONY SIX Full HD Liv
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Sony Six HD
-http://212.102.60.40:2200/R-EX/SPORTS_SONY_SIX_HD-in/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="Sports ", TEN SPORTS -1HD
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8?HjFreeTV=TEN1HD
