@@ -254,11 +254,17 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Fox 501
 http://mains.vip:2086/live/8386592806/2543983/100783.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", IN: Sony Six
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33282
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SONY SIX Full HD Liv
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", IN: SONY SIX HD
-http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33292
+#EXTINF:-1 tvg-id="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports ", Sony Ten 1 Hd
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-id="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports ", Sony Ten 2 Hd
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="Sports ", SONY TEN - 3HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2016/12/Olympicchannel-e1515173140414.jpg" group-title="Sports ", Olympic
 http://104.218.60.227:83/91595487/07862755/336125.ts
@@ -266,17 +272,17 @@ http://104.218.60.227:83/91595487/07862755/336125.ts
 #EXTINF:-1 tvg-id="Sony LIV" tvg-logo="noimage.png" group-title="Sports ", Sony LIV
 http://watchindia.net:8880/live/33253/72963/1758.ts
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", IN: Sony Six
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33282
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", IN: SONY SIX HD
+http://elattar-tv.org:8080/dazexchange/b4mg5uu7eY/33292
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", sony six
 https://pubads.g.doubleclick.net/ssai/event/9o6DQfRmS2evzn5gC2Xdzg/master.m3u8
 
 #EXTINF:-1 tvg-id="Sony Six" tvg-logo="noimage.png" group-title="Sports ", Sony Six
 https://cdn.cinemabaaz.live/SonySix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Sony Ten 1 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports ", Sony Ten 1 Hd
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-
-#EXTINF:-1 tvg-id="Sony Ten 2 Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="Sports ", Sony Ten 2 Hd
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="Sports ", DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
