@@ -2,11 +2,14 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", Tv9 bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", TV9 Bharatvarash
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi News ", Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.imgur.com/jXl82Cj.png" group-title="Hindi News ", Republic Bharat 
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic-bharat-in.png" group-title="Hindi News ", Republic Bharat
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695493/ei/peJfYYz2Ae6P2LYP2MKI2AQ/ip/20.41.18.69/id/Z2F67Ji6Jos.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOdM3fKtw1Mw-Lsbxlb0z1rExczWrqxM8XzzVKCU2tSJAiAjfakQ7tMwDF_IkeLvGzAWWXIhQGf5a2WuM7-0kHZtCA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ABP News-IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News ", ABP News
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
@@ -50,11 +53,11 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindi News ", aajtaak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News ", Tv9 Bharatvarash low
-https://d22d54eae707gc.cloudfront.net/TV9_BHARATBARSH.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-bharatvarsh-in.png" group-title="Hindi News ", TV9 Bharatvarsh
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695492/ei/pOJfYZGKG6fjhwbD1Ie4DQ/ip/20.41.18.69/id/Xg1-mF4BJEk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYWZi4u7yexPRJbSSQT_WeXNCJpwkgkiH8jtqmBdmxoICIHxozYkPk8ebLPAEJBGjOpwx8H6WL-ru088_MDk4SC3Y/file/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="English News", REPUBLIC TV 
-https://ottr6.republicworld.com/liveorigin/republictv/master_hdlive_720p.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png" group-title="English News", Republic TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695474/ei/kuJfYYQavIHYtg_F977wAQ/ip/20.41.18.69/id/xtoOK86mW8Y.1/source/yt_live_broadcast/requiressl/yes/tx/45170027/txs/45170026%2C45170027/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW1NFcByfuVeGrTVtUTrCLoCGkVPwEf-9dVZiId-e9QoCIGIuqutQaaZgY1gTIKQ2ya6YYw5fEe7Ex3DuWRy9dyhQ/file/index.m3u8
 
 #EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News", Times NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
@@ -197,11 +200,11 @@ https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", zee kannada
 https://d3t34m8y8rh0vb.cloudfront.net/preview/zeekannadahd/800.m3u8
 
-#EXTINF:-1 tvg-id="Colors Kannada HD" tvg-logo="noimage.png" group-title="Kannada", Colors Kannada HD
-http://luckonline.eu:8080/KjPypddrq4/8p1pLrAVDh/1318
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", Colors HD Kannada
+http://watchindia.net:8880/live/54739/54739/982.ts
 
-#EXTINF:-1 tvg-id="zeekannadahd.in" tvg-logo="https://watchindia.net/images/channels/kannada/Zee_TV.png" group-title="Kannada", Zee Kannada
-http://watchindia.net:8880/live/60275/20486/1001.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kannada", Zee Kannada
+http://watchindia.net:8880/live/54739/54739/1001.ts
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="Kannada", News 18 Kannda
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
@@ -269,17 +272,17 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/iMYdQAj.png" group-title="Sports ", beIN Sport
 https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="noimage.png" group-title="Sports ", Astro Cricket
+http://www.luckonline.eu:80/Anil/FrCRlmpWHH/516
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", astro cricket
 https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", willow hd
+#EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="noimage.png" group-title="Sports ", WILLOW CRICKET HD
+http://www.luckonline.eu:80/Anil/FrCRlmpWHH/517
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", star sports3
 http://stop.next-code.xyz:2052/live/Nador/66263/19344.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports ", Sky Sports Cricket
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", Sky sports cricket
-http://31.220.41.86:8081/live/skysports-cricket1.stream/playlist.m3u8?token=rk💯
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SKY Sports Cricket
 http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8?bdtv
@@ -306,4 +309,3 @@ http://watchindia.net:8880/live/33253/72963/1758.ts
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 
 
-I
