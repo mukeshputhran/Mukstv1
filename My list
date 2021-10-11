@@ -2,14 +2,14 @@
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", Tv9 bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", TV9 Bharatvarash
-https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0fFuH3n.png" group-title="Hindi News ", Republic Bharat
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republicbharat-samsungindia/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/hMGFK9v.jpg" group-title="Hindi News ", Times Now Navbharat HD
+https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Hindi News ", Aajtak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic-bharat-in.png" group-title="Hindi News ", Republic Bharat
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695493/ei/peJfYYz2Ae6P2LYP2MKI2AQ/ip/20.41.18.69/id/Z2F67Ji6Jos.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOdM3fKtw1Mw-Lsbxlb0z1rExczWrqxM8XzzVKCU2tSJAiAjfakQ7tMwDF_IkeLvGzAWWXIhQGf5a2WuM7-0kHZtCA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="ABP News-IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="Hindi News ", ABP News
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
@@ -38,9 +38,6 @@ https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157
 #EXTINF:-1 tvg-id="918" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="Hindi News ", Bharat Samachar
 https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="A1TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/6212.A1TV.in/1x1/1x/test_pic1544110295683.jpg" group-title="Hindi News ", A1 TV
-https://m-c15-j2apps.s.llnwi.net/hls/6212.A1TV.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi News ", SAHARA SAMAY
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
 
@@ -52,9 +49,6 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindi News ", aajtaak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-9-bharatvarsh-in.png" group-title="Hindi News ", TV9 Bharatvarsh
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695492/ei/pOJfYZGKG6fjhwbD1Ie4DQ/ip/20.41.18.69/id/Xg1-mF4BJEk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgYWZi4u7yexPRJbSSQT_WeXNCJpwkgkiH8jtqmBdmxoICIHxozYkPk8ebLPAEJBGjOpwx8H6WL-ru088_MDk4SC3Y/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png" group-title="English News", Republic TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695474/ei/kuJfYYQavIHYtg_F977wAQ/ip/20.41.18.69/id/xtoOK86mW8Y.1/source/yt_live_broadcast/requiressl/yes/tx/45170027/txs/45170026%2C45170027/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW1NFcByfuVeGrTVtUTrCLoCGkVPwEf-9dVZiId-e9QoCIGIuqutQaaZgY1gTIKQ2ya6YYw5fEe7Ex3DuWRy9dyhQ/file/index.m3u8
@@ -71,6 +65,9 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="495" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="English News", News X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/jcEb3WH.png" group-title="English News", WION
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
+
 #EXTINF:-1 tvg-id="491" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Magic_bricks_Now.png" group-title="English News", Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 
@@ -86,14 +83,17 @@ https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png" group-title="Hindi Entertainment", Star Plus-HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/FFcPLin.png" group-title="Hindi Entertainment", Star Plus
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Hindi Entertainment", SONY TV HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8?HjFreeTV=SONYSET
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi Entertainment", Colors HD*
-http://tv.aliflailabd.com:8989/colors-hd/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Eg91jHK.png" group-title="Hindi Entertainment", Colors hd
+http://51.79.84.156:8082/ColorsIn/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", Colors TV HD v
-http://watchindia.net:8880/live/33253/72963/801.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", colors hd
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/2JaTJ0M.png" group-title="Hindi Entertainment", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
@@ -104,8 +104,8 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Entertainment", Rishtey 
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies", Sony Max HD
-http://jupiter.bdcabletv.com/SonyMax/video.m3u8
+#EXTINF:-1 tvg-id="476" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="Hindi Movies", SONY MAX FHD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Hindi Movies", & Pictures HD
 http://watchindia.net:8880/live/33253/72963/783.ts
@@ -128,35 +128,26 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-logo="noimage.png" group-title="Hindi Movies", BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
 
-#EXTINF:-1 tvg-id="discovery.world.in" tvg-logo="https://watchindia.net/images/channels/hindi/Discovery_HD.png" group-title="Infotainment", Discovery Channel Hindi
-http://watchindia.net:8880/live/60275/20486/841.ts
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery Hindi
 https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-id="History TV 18 HD" tvg-logo="https://watchindia.net/images/channels/hindi/History_TV_HD.png" group-title="Infotainment", History TV 18 HD hindi
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-HISTORYTV18/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38ef01782c497704995ee2d5d9f8c8b0ef53241df9281cf41545a5916413324b7ed48d67b5b450e865d76ec6e80dcad1ba8497eb901acd999791d4abfa48bd678de76c54f6a2b313d3baa3b38378f17e6068ced5ba5d28dfd061e9431a815786b1e0d7ad8c94d8f9&mac=00:1A:79:3A:6B:91&ip=202.134.10.142&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="Nat geo wild HINDI FHD" tvg-logo="noimage.png" group-title="Infotainment", Nat geo wild HINDI FHD
+http://www.luckonline.eu:80/Anil/FrCRlmpWHH/1637
 
-#EXTINF:-1 tvg-id="history.tv18.in" tvg-logo="noimage.png" group-title="Infotainment", History TV HD
-http://watchindia.net:8880/live/60275/20486/791.ts
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/Stf5xif.png" group-title="Infotainment", History Channel
-http://31.220.41.88:8081/live/us-history.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="National geographic Hindi" tvg-logo="noimage.png" group-title="Infotainment", National geographic Hindi
+http://www.luckonline.eu:80/Anil/FrCRlmpWHH/620
 
 #EXTINF:-1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="Infotainment", BBC EARTH
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
-#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-logo="http://watchindia.net/images/channels/usa/NAT_GEO_Wild.png" group-title="Infotainment", Nat Geo Wild
-http://watchindia.net:8880/live/60275/20486/2047.ts
-
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="noimage.png" group-title="Infotainment", Nat Geo Wild HD
-http://echootv.tv:2086/sipantaroyan_FMUqUy/SdhIHYZ5Fz/240413
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="Clarity 4K" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg" group-title="Infotainment", Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", epic
+https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/P7JRmze.png" group-title="Infotainment", TLC [Hindi]
+http://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="Infotainment", Love Nature HD
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?token
@@ -164,23 +155,8 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?token
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Infotainment", Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/P7JRmze.png" group-title="Infotainment", TLC [Hindi]
-http://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", NDTV good times
-https://dmcpheea8yzl1.cloudfront.net/NDTV_GOOD_TIMES.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", epic
-https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Travel_xp_hd.png" group-title="Infotainment", Travel XP Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="Infotainment", food food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/foodxp.png" group-title="Infotainment", Food XP - Hindi
-http://5.101.140.110:8000/play/a03h/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Infotainment", Discovery Science Hindi
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
