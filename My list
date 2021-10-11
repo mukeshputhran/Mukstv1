@@ -50,8 +50,8 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" group-title="Hindi News ", aajtaak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/republic_in.png" group-title="English News", Republic TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633695474/ei/kuJfYYQavIHYtg_F977wAQ/ip/20.41.18.69/id/xtoOK86mW8Y.1/source/yt_live_broadcast/requiressl/yes/tx/45170027/txs/45170026%2C45170027/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgW1NFcByfuVeGrTVtUTrCLoCGkVPwEf-9dVZiId-e9QoCIGIuqutQaaZgY1gTIKQ2ya6YYw5fEe7Ex3DuWRy9dyhQ/file/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/SOAzyhe.png" group-title="English News", Republic TV
+https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="383" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png" group-title="English News", Times NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_480_av-p.m3u8
