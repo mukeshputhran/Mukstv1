@@ -245,23 +245,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Channels", & Prive hd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/iMYdQAj.png" group-title="Sports ", beIN Sport
-https://smart-tv.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="1918" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports ", Jio Cricket English HD
+https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Jio_Cricket_English.m3u8
 
-#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="noimage.png" group-title="Sports ", Astro Cricket
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/516
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", astro cricket
-https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745753
-
-#EXTINF:-1 tvg-id="WILLOW CRICKET HD" tvg-logo="noimage.png" group-title="Sports ", WILLOW CRICKET HD
-http://www.luckonline.eu:80/Anil/FrCRlmpWHH/517
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", star sports3
-http://stop.next-code.xyz:2052/live/Nador/66263/19344.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SKY Sports Cricket
-http://31.220.41.88:8081/live/skysports-cricket1.stream/playlist.m3u8?bdtv
+#EXTINF:-1 tvg-id="438" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png" group-title="Sports ", Jio Cricket Hindi HD
+https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Jio_Cricket_Hindi.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports ", SONY SIX Full HD Liv
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?HjFreeTV=SIXHD
