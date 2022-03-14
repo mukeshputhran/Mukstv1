@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="286" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="test", Animal Planet HD World
+https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Animal_Planet_HD
+
+#EXTINF:-1 tvg-id="566" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="test", Animal Planet Hindi
+https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Animal_Planet_Hindi
+
+#EXTINF:-1 tvg-id="1301" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="test", Colors HD
+https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1301
+
+#EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="test", Discovery Channel
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
+
+#EXTINF:-1 tvg-id="578" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="test", History TV18 HD Hindi
+https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=History_18_Hindi
+
+#EXTINF:-1 tvg-id="291" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="test", SET Live
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009246|user-agent="ExoPlayer"
+
+#EXTINF:-1 tvg-id="821" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="test", Sony BBC Earth HD
+https://iptv.ambaniuncle.tk/jiotv/m3u8.m3u8?c=Sony_BBC_Earth_HD
+
+#EXTINF:-1 tvg-id="291" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="test", SONY SET FHD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_1018" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1018/LOGO/e712404d-07ec-46c8-acec-e27cb39fcbd5.jpg" group-title="test", Zee Kannada HD
+https://iptv.ambaniuncle.tk/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_1018
+
+#EXTINF:-1 tvg-id="MWTV_LIVETVCHANNEL_446" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/_ic_logo_Zee_TV_HD.png" group-title="test", Zee TV HD
+https://iptv.ambaniuncle.tk/airtel/manifest.mpd?id=MWTV_LIVETVCHANNEL_446
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://tv9bharatvarshmedia.s3.amazonaws.com/wp-content/uploads/2018/08/BHARATVARSH-OLD-LOGO-FINAL-02-1-1024x984.png" group-title="Hindi News ", Tv9 bharatvarsh
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 
